@@ -1,0 +1,120 @@
+
+.vscode/settings.json
+
+**/node_modules
+
+# **/js/clone_upload
+
+# *.icloud
+# .DS_Store
+# images/.DS_Store
+# scss/.DS_Store
+# .DS_Store
+images/bg-navbar 2.png
+scss/components/covid/_emergency 3.scss
+scss/components/covid/_main-covid 2.scss
+scss/pages/_chuyen-muc-covid-navbar 2.scss
+navbar-chuyen-muc-covid 2.html
+scss/components/covid/_emergency 2.scss
+scss/components/covid/_emergency 2.scss
+node_modules/json-schema/draft-00/hyper-schema 2
+node_modules/json-schema/draft-00/json-ref 2
+node_modules/json-schema/draft-00/links 2
+node_modules/json-schema/draft-00/schema 2
+node_modules/json-schema/draft-01/hyper-schema 2
+node_modules/json-schema/draft-01/json-ref 2
+node_modules/json-schema/draft-01/links 2
+node_modules/json-schema/draft-01/schema 2
+node_modules/json-schema/draft-02/hyper-schema 2
+node_modules/json-schema/draft-02/json-ref 2
+node_modules/json-schema/draft-02/links 2
+node_modules/json-schema/draft-02/schema 2
+node_modules/json-schema/draft-03/examples/address 2
+node_modules/json-schema/draft-03/examples/calendar 2
+node_modules/json-schema/draft-03/examples/card 2
+node_modules/json-schema/draft-03/examples/geo 2
+node_modules/json-schema/draft-03/examples/interfaces 2
+node_modules/json-schema/draft-03/hyper-schema 2
+node_modules/json-schema/draft-03/json-ref 2
+node_modules/json-schema/draft-03/links 2
+node_modules/json-schema/draft-03/schema 2
+node_modules/json-schema/draft-04/hyper-schema 2
+node_modules/json-schema/draft-04/links 2
+node_modules/json-schema/draft-04/schema 2
+node_modules/json-schema/draft-zyp-json-schema-03 2.xml
+node_modules/json-schema/draft-zyp-json-schema-04 2.xml
+node_modules/json-schema/test/tests 2.js
+node_modules/node-sass/vendor/win32-x64-72/binding 2.node
+node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/index 2.js
+node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/license 2
+node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/package 2.json
+node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/readme 2.md
+node_modules/yargs/CHANGELOG 2.md
+node_modules/yargs/index 2.js
+node_modules/yargs/lib/apply-extends 2.js
+node_modules/yargs/lib/argsert 2.js
+node_modules/yargs/lib/command 2.js
+node_modules/yargs/lib/completion 2.js
+node_modules/yargs/lib/completion-templates 2.js
+node_modules/yargs/lib/decamelize 2.js
+node_modules/yargs/lib/is-promise 2.js
+node_modules/yargs/lib/levenshtein 2.js
+node_modules/yargs/lib/middleware 2.js
+node_modules/yargs/lib/obj-filter 2.js
+node_modules/yargs/lib/usage 2.js
+node_modules/yargs/lib/validation 2.js
+node_modules/yargs/lib/yerror 2.js
+node_modules/yargs/node_modules/find-up/index 2.js
+node_modules/yargs/node_modules/find-up/license 2
+node_modules/yargs/node_modules/find-up/package 2.json
+node_modules/yargs/node_modules/find-up/readme 2.md
+node_modules/yargs/yargs 2.js
+images/.DS_Store
+node_modules/follow-redirects/debug 2.js
+node_modules/follow-redirects/http 2.js
+node_modules/follow-redirects/https 2.js
+node_modules/follow-redirects/LICENSE 2
+node_modules/follow-redirects/README 2.md
+node_modules/minimist/.travis 2.yml
+node_modules/minimist/example/parse 2.js
+node_modules/minimist/LICENSE 2
+node_modules/minimist/package 2.json
+node_modules/minimist/readme 2.markdown
+node_modules/minimist/test/all_bool 2.js
+node_modules/minimist/test/bool 2.js
+node_modules/minimist/test/dash 2.js
+node_modules/minimist/test/default_bool 2.js
+node_modules/minimist/test/dotted 2.js
+node_modules/minimist/test/kv_short 2.js
+node_modules/minimist/test/long 2.js
+node_modules/minimist/test/num 2.js
+node_modules/minimist/test/parse 2.js
+node_modules/minimist/test/parse_modified 2.js
+node_modules/minimist/test/short 2.js
+node_modules/minimist/test/stop_early 2.js
+node_modules/minimist/test/unknown 2.js
+node_modules/minimist/test/whitespace 2.js
+node_modules/.package-lock 2.json
+node_modules/.package-lock.json
+package-lock 2.json
+package-lock.json
+node_modules/.package-lock 2.json
+package-lock 2.json
+node_modules/.package-lock 2.json
+package-lock 2.json
+.DS_Store
+fonts/.DS_Store
+cate-brand-update-25-3 3.html
+cate-brand-update-25-3 2.html
+.DS_Store
+images/.DS_Store
+.DS_Store
+fonts/.DS_Store
+fonts/icon-v1.0/.DS_Store
+fonts/.DS_Store
+.DS_Store
+js/fn-login 2.js
+modal-login 2.html
+images/icon-password 2.png
+images/icon-phone-new 2.png
+scss/components/_login-otp 2.scss
